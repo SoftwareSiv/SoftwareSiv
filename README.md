@@ -1,7 +1,7 @@
-Hello I'm Siv 
+Hello I'm Siv
 
-Im a Freshman in College, Majoring in CompSci...duh
+Im a 19 year old Computer Science Major
+and this is a peek into my brain while I'm
+not at work or in school
 
-I want to become a Software Developer 
-
-Maybe even a Game Developer
+I write in Java, learning C#
